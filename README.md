@@ -1,7 +1,6 @@
 # web3Radio-lite
 Starter kit to create your own decentralized web radio with token gating on Ethereum blockchain.
 
-![Web3 Radio Banner](https://i.ibb.co/placeholder-image/web3radio-banner.png)
 
 ## 🎵 Overview
 
